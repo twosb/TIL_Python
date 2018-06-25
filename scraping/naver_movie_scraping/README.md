@@ -12,8 +12,7 @@ Default에서 변경된 파일은 아래와 같습니다.
 
 >- items.py (modified)
 >- settings.py (modified)
->- *in <u>spiders</u> folder*
->  - nm_spider.py (added)
+>- *in <u>spiders</u> folder* - nm_spider.py (added)
 
 <br>
 
